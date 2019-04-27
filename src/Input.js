@@ -15,7 +15,7 @@ function Input({handleChange, textValue}) {
                        className="form-control" 
                        id="exampleInputEmail1" 
                        aria-describedby="emailHelp" 
-                       placeholder="Type shit"/>
+                       placeholder="Type some stuff"/>
             </div>
         </form>
 
